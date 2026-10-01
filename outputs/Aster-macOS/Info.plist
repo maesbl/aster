@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Aster</string>
+	<key>CFBundleExecutable</key>
+	<string>Aster</string>
+	<key>CFBundleIconFile</key>
+	<string>Aster.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.aster.desktop</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Aster</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.6.0</string>
+	<key>CFBundleVersion</key>
+	<string>9</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.productivity</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Aster consulta tu bandeja y lee los correos que le pidas para ayudarte a resumirlos. No envía mensajes.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Aster revisa tus próximas citas para avisarte y ayudarte a organizar tu día. No modifica eventos.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Aster · Aplicación personal</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Aster consulta y crea recordatorios cuando se lo pides y te ayuda a organizar tus tareas.</string>
+</dict>
+</plist>

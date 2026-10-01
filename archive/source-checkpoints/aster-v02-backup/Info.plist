@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleName</key><string>Aster</string>
+<key>CFBundleDisplayName</key><string>Aster</string>
+<key>CFBundleIdentifier</key><string>com.aster.desktop</string>
+<key>CFBundleExecutable</key><string>Aster</string>
+<key>CFBundleIconFile</key><string>Aster</string>
+<key>CFBundleVersion</key><string>2</string>
+<key>CFBundleShortVersionString</key><string>0.2.0</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSCalendarsFullAccessUsageDescription</key><string>Aster revisa tus próximas citas para avisarte y ayudarte a organizar tu día. No modifica eventos.</string>
+<key>NSAppleEventsUsageDescription</key><string>Aster lee el remitente y asunto de hasta diez correos sin leer en Apple Mail cuando conectas la cuenta. No envía mensajes.</string>
+<key>NSHumanReadableCopyright</key><string>Aster · Aplicación personal</string>
+</dict></plist>

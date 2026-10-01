@@ -1,0 +1,29 @@
+# Credentials, signing keys and personal runtime state
+.env
+.env.*
+!.env.example
+.aster-signing/
+*.p12
+*.pfx
+*.key
+*.mobileprovision
+*.keychain-db
+.vercel/
+state.json
+.key-import
+# Reproducible generated files
+node_modules/
+.next/
+.wrangler/
+.sites-runtime/
+.openai/
+.vinext/
+dist/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.tsbuildinfo
+__pycache__/
+.DS_Store
+work/
+Aster.app/
